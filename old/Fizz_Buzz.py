@@ -56,7 +56,7 @@ for i in range(1, 101):
         print('incorrect')
         print(f'The correct answer was: {correct_answer}')
         # Current player lost, so other player wins
-        current_player_idx = (current_player_idx + 1) % 2 # This works because the remainder of 2%2=0
+        
         current_player = players[current_player_idx]
         print(f'{current_player} has won!')
         break
