@@ -14,7 +14,7 @@ This is a Python implementation of the classic FizzBuzz game, designed as part o
 
 ### Requirements
 - Python 3.x installed on your machine.
-#### for reference i have attached my previous attempts of this project in the "old" folder
-#### my main program is the
+#### for reference i have attached my previous attempts of this project in the "old" folder so you can see the improvements
+#### my main program is the "Main_Fizz_Buzz_oop.py"
 
 ## I hope you enjoy
