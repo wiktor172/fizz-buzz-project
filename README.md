@@ -1,7 +1,7 @@
 # FizzBuzz Game
 
 ## Overview
-This is a Python implementation of the classic FizzBuzz game, designed as part of a work experience project for RDT. The game allows multiple players to participate in a fun and interactive way, testing their ability to respond to numbers with the correct FizzBuzz responses.
+This is a Python implementation of the classic FizzBuzz game, designed as part of a work experience project for RDT. The game allows multiple players to participate in a fun and interactive way.
 
 ## Features
 - **Multiplayer Support**: Players can join the game by entering their names.
@@ -11,21 +11,8 @@ This is a Python implementation of the classic FizzBuzz game, designed as part o
 - **Elimination**: Players with zero points are eliminated from the game.
 - **Winning Condition**: The first player to reach 10 points wins the game.
 
-## Getting Started
 
 ### Requirements
 - Python 3.x installed on your machine.
-- Basic understanding of Python and command line usage.
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/FizzBuzz.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd FizzBuzz
-   ```
-
-### Running the Game
-To start the game, run the following command in your terminal:
+## I hope you enjoy
